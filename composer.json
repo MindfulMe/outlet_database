@@ -1,0 +1,18 @@
+{
+  "name": "maxim-mazurok/outlet-db",
+  "description": "JSON API to DB for outlet app",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Maxim Mazurok",
+      "email": "maxim@mazurok.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^2.4",
+    "php-ffmpeg/php-ffmpeg": "^0.9.3",
+    "ext-imagick": "*",
+    "aws/aws-sdk-php": "^3.31"
+  }
+}
